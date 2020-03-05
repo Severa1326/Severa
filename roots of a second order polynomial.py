@@ -32,4 +32,5 @@ X2 = {negative_result}""")
 The second order polynomial has one possible root:
 X = {determinant_equals_zero}""")
 
+"Done 04/03/2020"
 
